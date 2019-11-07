@@ -1,7 +1,7 @@
 #!/bin/bash
 
-mkdir go
-cd go
+set -eux
+
 export GOPATH=$(pwd)
 go get github.com/mattn/go-runewidth
 go get github.com/pkg/errors
