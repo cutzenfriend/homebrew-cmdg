@@ -1,4 +1,4 @@
-##cmdg - A command line client to GMail##
+# cmdg - A command line client to GMail
 
 Copyright Thomas Habets thomas@habets.se 2015-2019
 
