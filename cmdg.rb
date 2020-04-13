@@ -3,6 +3,7 @@ class Cmdg < Formula
   homepage "https://github.com/ThomasHabets/cmdg"
   url "https://github.com/ThomasHabets/cmdg/archive/cmdg-1.00.tar.gz"
   sha256 "4a723a812eae27fac1334e14cfc9b92955e6a3c1c43f1de87aa294d72bb7dc25"
+  version "1.1"
   depends_on "go"
   def install
     ENV["GOPATH"] = buildpath
