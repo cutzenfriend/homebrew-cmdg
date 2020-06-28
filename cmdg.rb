@@ -2,7 +2,7 @@ class Cmdg < Formula
   desc "Gmail CLI - Copyright Thomas Habets thomas@habets.se 2019"
   homepage "https://github.com/ThomasHabets/cmdg"
   url "https://raw.githubusercontent.com/cutzenfriend/homebrew-cmdg/master/cmdg.rb"
-  sha256 "882262c646a3cfba89ca60e70132e6579e6c70299a9f84cab1bd756ca073edca"
+  sha256 "6210aea8fbeb47a80bbb3095624c6d06ea078532b18a0d6d95af83f3989f3287"
   version "1.2"
   depends_on "go"
   def install
