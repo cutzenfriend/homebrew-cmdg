@@ -11,4 +11,4 @@ brew install cmdg
 
 For documentation and initial configuration refer to: https://github.com/ThomasHabets/cmdg
 
-Copyright Thomas Habets thomas@habets.se 2015-2019
+Copyright Thomas Habets thomas@habets.se 2015-2021
